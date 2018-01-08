@@ -1,0 +1,33 @@
+.leftBar {
+    float: left;
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.900);
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.rightBar {
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.900);
+    background-color: orange;
+    text-align: center;
+}
+
+.returnedText {
+    position: absolute;
+    left: 22px; 
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    background-color: yellow;
+}
+.returnedTextP {
+    margin: 0px;
+}
